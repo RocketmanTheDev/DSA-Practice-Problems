@@ -1,9 +1,7 @@
-n = input()
+n = int(input('Enter size of cube:'))
 m = n
 
-while n:
-    while m:
-        print('*')
-        m=m-1
-    n=n-1
-    m = n
+for i in range(n):
+    for j in range(m):
+        print("*", end="")
+    print()
