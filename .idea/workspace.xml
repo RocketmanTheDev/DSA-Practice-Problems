@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3044e6b-5121-41c9-82fe-1de6789ae33b" name="Changes" comment="" />
+    <list default="true" id="a3044e6b-5121-41c9-82fe-1de6789ae33b" name="Changes" comment="created git repository to keep practice problems">
+      <change beforePath="$PROJECT_DIR$/.idea/DSA Practice Problems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DSA Practice Problems.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern-problems/cube-pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-problems/cube-pattern.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +17,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RocketmanTheDev&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/RocketmanTheDev/DSA-Practice-Problems.git&quot;,
+    &quot;accountId&quot;: &quot;40d2c54e-ec10-41b2-aad6-6c08a5d4c6d6&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2tZ9Di2yUg8SnzANhovAiDloCjJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,7 +40,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.cube-pattern.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
@@ -41,6 +62,19 @@
       <option name="presentableId" value="Default" />
       <updated>1740548611733</updated>
     </task>
+    <task id="LOCAL-00001" summary="created git repository to keep practice problems">
+      <option name="closed" value="true" />
+      <created>1740548678079</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740548678079</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="created git repository to keep practice problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="created git repository to keep practice problems" />
   </component>
 </project>
