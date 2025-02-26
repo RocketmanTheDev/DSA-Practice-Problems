@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3044e6b-5121-41c9-82fe-1de6789ae33b" name="Changes" comment="finished triangle-pattern.py" />
+    <list default="true" id="a3044e6b-5121-41c9-82fe-1de6789ae33b" name="Changes" comment="finished triangle-number-pattern.py" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +44,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.cube-pattern.executor": "Run",
+    "Python.triangle-number-pattern-1.executor": "Run",
+    "Python.triangle-number-pattern-2.executor": "Run",
     "Python.triangle-pattern.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -98,13 +100,22 @@
       <option name="project" value="LOCAL" />
       <updated>1740608849112</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="finished triangle-number-pattern.py">
+      <option name="closed" value="true" />
+      <created>1740609075949</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740609075949</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created git repository to keep practice problems" />
     <MESSAGE value="finished cube-pattern.py" />
     <MESSAGE value="finished triangle-pattern.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished triangle-pattern.py" />
+    <MESSAGE value="finished triangle-number-pattern.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished triangle-number-pattern.py" />
   </component>
 </project>
