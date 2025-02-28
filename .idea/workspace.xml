@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3044e6b-5121-41c9-82fe-1de6789ae33b" name="Changes" comment="finished triangle-number-pattern.py" />
+    <list default="true" id="a3044e6b-5121-41c9-82fe-1de6789ae33b" name="Changes" comment="finished triangle-number-pattern.py">
+      <change afterPath="$PROJECT_DIR$/pattern-problems/full-triangle-pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern-problems/reverse-full-triangle-pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern-problems/reverse-triangle-number-pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern-problems/reverse-triangle-pattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,12 +50,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.cube-pattern.executor": "Run",
+    "Python.full-triangle-pattern.executor": "Run",
+    "Python.reverse-full-triangle-pattern.executor": "Run",
+    "Python.reverse-triangle-number-pattern.executor": "Run",
+    "Python.reverse-triangle-pattern.executor": "Run",
     "Python.triangle-number-pattern-1.executor": "Run",
     "Python.triangle-number-pattern-2.executor": "Run",
     "Python.triangle-pattern.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -108,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740609075949</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="finished triangle-number-pattern.py">
+      <option name="closed" value="true" />
+      <created>1740609292275</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1740609292275</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
