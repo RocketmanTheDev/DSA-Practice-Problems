@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3044e6b-5121-41c9-82fe-1de6789ae33b" name="Changes" comment="finished more pattern problems">
-      <change afterPath="$PROJECT_DIR$/pattern-problems/cube-frame-pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern-problems/cube-numbered-pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern-problems/full-triangle-letters-pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern-problems/inverese-alternative-diamond-pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern-problems/inverse-diamond-pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern-problems/reverse-triangle-letters-pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern-problems/reversed-letters-triangle-pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern-problems/triangle-letters-pattern-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern-problems/triangle-letters-pattern-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern-problems/triangle-sequence-pattern.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern-problems/v-shape-numbere-pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-problems/v-shape-number-pattern.py" afterDir="false" />
+    <list default="true" id="a3044e6b-5121-41c9-82fe-1de6789ae33b" name="Changes" comment="finished the rest of the pattern problems">
+      <change afterPath="$PROJECT_DIR$/math-problems/count-digits.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +169,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740801836182</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="finished the rest of the pattern problems">
+      <option name="closed" value="true" />
+      <created>1740869719767</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1740869719767</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -191,6 +188,7 @@
     <MESSAGE value="finished some triangle pattern problems" />
     <MESSAGE value="finished diamond-pattern.py" />
     <MESSAGE value="finished more pattern problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished more pattern problems" />
+    <MESSAGE value="finished the rest of the pattern problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished the rest of the pattern problems" />
   </component>
 </project>
