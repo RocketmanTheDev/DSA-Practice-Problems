@@ -4,11 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3044e6b-5121-41c9-82fe-1de6789ae33b" name="Changes" comment="finished diamond-pattern.py">
-      <change afterPath="$PROJECT_DIR$/pattern-problems/half-diamond-pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern-problems/trinalge-alternating-pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern-problems/v-shape-numbere-pattern.py" afterDir="false" />
+    <list default="true" id="a3044e6b-5121-41c9-82fe-1de6789ae33b" name="Changes" comment="finished more pattern problems">
+      <change afterPath="$PROJECT_DIR$/pattern-problems/cube-frame-pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern-problems/cube-numbered-pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern-problems/full-triangle-letters-pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern-problems/inverese-alternative-diamond-pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern-problems/inverse-diamond-pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern-problems/reverse-triangle-letters-pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern-problems/reversed-letters-triangle-pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern-problems/triangle-letters-pattern-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern-problems/triangle-letters-pattern-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern-problems/triangle-sequence-pattern.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern-problems/v-shape-numbere-pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-problems/v-shape-number-pattern.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,16 +56,26 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.cube-frame-pattern.executor": "Run",
+    "Python.cube-numbered-pattern.executor": "Run",
     "Python.cube-pattern.executor": "Run",
     "Python.diamond-pattern.executor": "Run",
+    "Python.full-triangle-letters-pattern.executor": "Run",
     "Python.full-triangle-pattern.executor": "Run",
     "Python.half-diamond-pattern.executor": "Run",
+    "Python.inverese-alternative-diamond-pattern.executor": "Run",
+    "Python.inverse-diamond-pattern.executor": "Run",
     "Python.reverse-full-triangle-pattern.executor": "Run",
+    "Python.reverse-triangle-letters-pattern.executor": "Run",
     "Python.reverse-triangle-number-pattern.executor": "Run",
     "Python.reverse-triangle-pattern.executor": "Run",
+    "Python.reversed-letters-triangle-pattern.executor": "Run",
+    "Python.triangle-letters-pattern-2.executor": "Run",
+    "Python.triangle-letters-pattern.executor": "Run",
     "Python.triangle-number-pattern-1.executor": "Run",
     "Python.triangle-number-pattern-2.executor": "Run",
     "Python.triangle-pattern.executor": "Run",
+    "Python.triangle-sequence-pattern.executor": "Run",
     "Python.trinalge-alternating-pattern.executor": "Run",
     "Python.v-shape-numbere-pattern.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -154,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740706553631</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="finished more pattern problems">
+      <option name="closed" value="true" />
+      <created>1740801836182</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1740801836182</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -164,6 +190,7 @@
     <MESSAGE value="finished triangle-number-pattern.py" />
     <MESSAGE value="finished some triangle pattern problems" />
     <MESSAGE value="finished diamond-pattern.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished diamond-pattern.py" />
+    <MESSAGE value="finished more pattern problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished more pattern problems" />
   </component>
 </project>
