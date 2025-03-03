@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3044e6b-5121-41c9-82fe-1de6789ae33b" name="Changes" comment="finished the rest of the pattern problems">
-      <change afterPath="$PROJECT_DIR$/math-problems/count-digits.py" afterDir="false" />
+    <list default="true" id="a3044e6b-5121-41c9-82fe-1de6789ae33b" name="Changes" comment="created math-problems directory and finished count-digits.py">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.count-digits.executor": "Run",
     "Python.cube-frame-pattern.executor": "Run",
     "Python.cube-numbered-pattern.executor": "Run",
     "Python.cube-pattern.executor": "Run",
@@ -177,7 +178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740869719767</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="created math-problems directory and finished count-digits.py">
+      <option name="closed" value="true" />
+      <created>1740870111482</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1740870111482</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -189,6 +198,7 @@
     <MESSAGE value="finished diamond-pattern.py" />
     <MESSAGE value="finished more pattern problems" />
     <MESSAGE value="finished the rest of the pattern problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished the rest of the pattern problems" />
+    <MESSAGE value="created math-problems directory and finished count-digits.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="created math-problems directory and finished count-digits.py" />
   </component>
 </project>
