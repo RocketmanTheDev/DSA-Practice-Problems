@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3044e6b-5121-41c9-82fe-1de6789ae33b" name="Changes" comment="finished check-palindrome.py and gcd.py">
-      <change afterPath="$PROJECT_DIR$/math-problems/all-divisors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/math-problems/check-armstrong-number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/math-problems/check-prime.py" afterDir="false" />
+    <list default="true" id="a3044e6b-5121-41c9-82fe-1de6789ae33b" name="Changes" comment="finished math problems">
+      <change afterPath="$PROJECT_DIR$/recursion-problems/print-1-to-n.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion-problems/print-n-times-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion-problems/print-n-times-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion-problems/print-n-to-1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +52,7 @@
     "Python.all-divisors.executor": "Run",
     "Python.check-armstrong-number.executor": "Run",
     "Python.check-palindrome.executor": "Run",
+    "Python.check-prime.executor": "Run",
     "Python.count-digits.executor": "Run",
     "Python.cube-frame-pattern.executor": "Run",
     "Python.cube-numbered-pattern.executor": "Run",
@@ -62,6 +64,9 @@
     "Python.half-diamond-pattern.executor": "Run",
     "Python.inverese-alternative-diamond-pattern.executor": "Run",
     "Python.inverse-diamond-pattern.executor": "Run",
+    "Python.print-1-to-n.executor": "Run",
+    "Python.print-n-times-2.executor": "Run",
+    "Python.print-n-times.executor": "Run",
     "Python.reverse-digits.executor": "Run",
     "Python.reverse-full-triangle-pattern.executor": "Run",
     "Python.reverse-triangle-letters-pattern.executor": "Run",
@@ -210,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741067098052</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="finished math problems">
+      <option name="closed" value="true" />
+      <created>1741068416149</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1741068416149</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -225,6 +238,7 @@
     <MESSAGE value="created math-problems directory and finished count-digits.py" />
     <MESSAGE value="finished reverse-digits.py" />
     <MESSAGE value="finished check-palindrome.py and gcd.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished check-palindrome.py and gcd.py" />
+    <MESSAGE value="finished math problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished math problems" />
   </component>
 </project>
