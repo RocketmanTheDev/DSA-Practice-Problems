@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3044e6b-5121-41c9-82fe-1de6789ae33b" name="Changes" comment="finished some recursion problems">
-      <change afterPath="$PROJECT_DIR$/recursion-problems/check-string-palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursion-problems/fibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursion-problems/reverse-array.py" afterDir="false" />
+    <list default="true" id="a3044e6b-5121-41c9-82fe-1de6789ae33b" name="Changes" comment="finished the rest of the recursion problems">
+      <change afterPath="$PROJECT_DIR$/hashing-problems/basic-hashing.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.all-divisors.executor": "Run",
+    "Python.basic-hashing.executor": "Run",
     "Python.check-armstrong-number.executor": "Run",
     "Python.check-palindrome.executor": "Run",
     "Python.check-prime.executor": "Run",
@@ -236,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741069257209</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="finished the rest of the recursion problems">
+      <option name="closed" value="true" />
+      <created>1741148370899</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1741148370900</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -253,6 +260,7 @@
     <MESSAGE value="finished check-palindrome.py and gcd.py" />
     <MESSAGE value="finished math problems" />
     <MESSAGE value="finished some recursion problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished some recursion problems" />
+    <MESSAGE value="finished the rest of the recursion problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished the rest of the recursion problems" />
   </component>
 </project>
