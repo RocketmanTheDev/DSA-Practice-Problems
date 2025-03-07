@@ -16,10 +16,10 @@ hash_array = {}
 for num in array:
     hash_array[num] = hash_array.get(num, 0) + 1
 
-query_size = int(input("Enter the size of the query: "))
-
 # Process queries
-for i in range(query_size):
-    query = int(input(f"Enter query {i+1}: "))
+while True:
+    query = int(input(f"Enter query (-1 to Exit) {i+1}: "))
+    if query == -1:
+        break
     print(hash_array.get(query, 0))  # Default to 0 if query is not found
 

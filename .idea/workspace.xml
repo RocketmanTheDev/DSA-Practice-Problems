@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3044e6b-5121-41c9-82fe-1de6789ae33b" name="Changes" comment="finished the rest of the recursion problems">
-      <change afterPath="$PROJECT_DIR$/hashing-problems/basic-hashing.py" afterDir="false" />
+    <list default="true" id="a3044e6b-5121-41c9-82fe-1de6789ae33b" name="Changes" comment="created a hashing-problems directory and finished basic-hashing.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,6 +87,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Work/Dev/python/Projects/Merchant-Sim",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -243,7 +243,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741148370900</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="created a hashing-problems directory and finished basic-hashing.py">
+      <option name="closed" value="true" />
+      <created>1741223619887</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1741223619887</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -261,6 +269,7 @@
     <MESSAGE value="finished math problems" />
     <MESSAGE value="finished some recursion problems" />
     <MESSAGE value="finished the rest of the recursion problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished the rest of the recursion problems" />
+    <MESSAGE value="created a hashing-problems directory and finished basic-hashing.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="created a hashing-problems directory and finished basic-hashing.py" />
   </component>
 </project>
