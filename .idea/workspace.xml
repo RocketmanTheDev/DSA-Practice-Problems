@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3044e6b-5121-41c9-82fe-1de6789ae33b" name="Changes" comment="created a hashing-problems directory and finished basic-hashing.py">
+    <list default="true" id="a3044e6b-5121-41c9-82fe-1de6789ae33b" name="Changes" comment="changed basic-hashing.py query logic">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +55,7 @@
     "Python.cube-frame-pattern.executor": "Run",
     "Python.cube-numbered-pattern.executor": "Run",
     "Python.cube-pattern.executor": "Run",
+    "Python.determinant-of-matrix.executor": "Run",
     "Python.diamond-pattern.executor": "Run",
     "Python.factorial.executor": "Run",
     "Python.fibonacci.executor": "Run",
@@ -251,7 +252,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741223619887</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="changed basic-hashing.py query logic">
+      <option name="closed" value="true" />
+      <created>1741326670827</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1741326670827</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -270,6 +279,7 @@
     <MESSAGE value="finished some recursion problems" />
     <MESSAGE value="finished the rest of the recursion problems" />
     <MESSAGE value="created a hashing-problems directory and finished basic-hashing.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="created a hashing-problems directory and finished basic-hashing.py" />
+    <MESSAGE value="changed basic-hashing.py query logic" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed basic-hashing.py query logic" />
   </component>
 </project>

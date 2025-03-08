@@ -16,7 +16,7 @@ hash_array = {}
 for num in array:
     hash_array[num] = hash_array.get(num, 0) + 1
 
-# Process queries
+# Process queries with a loop
 while True:
     query = int(input(f"Enter query (-1 to Exit) {i+1}: "))
     if query == -1:
