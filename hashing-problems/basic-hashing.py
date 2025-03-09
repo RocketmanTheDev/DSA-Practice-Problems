@@ -6,11 +6,9 @@
 arr_size = int(input("Enter the size of the array: "))
 array = []
 
-# Read the array elements
 for i in range(arr_size):
     array.append(int(input(f"Enter element {i+1}: ")))
 
-# Create a frequency dictionary
 hash_array = {}
 
 for num in array:
